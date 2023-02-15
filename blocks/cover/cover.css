@@ -8,6 +8,7 @@
   text-align: center;
   background-size: cover;
   position: relative;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 1024px) {
