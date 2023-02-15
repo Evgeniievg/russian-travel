@@ -1,0 +1,25 @@
+.place__url_link{
+  color: #fff;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  transition: all ease .3s;
+}
+
+.place__url_link:hover{
+  opacity: .8;
+}
+
+@media screen and (min-width: 1440px) {
+  .place__url_link{
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .place__url_link{
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

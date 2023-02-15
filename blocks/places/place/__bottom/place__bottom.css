@@ -1,0 +1,12 @@
+.place__bottom{
+  display: flex;
+  margin-top: 48px;
+}
+
+@media screen and (max-width: 425px) {
+
+  .place__bottom{
+    display: flex;
+    flex-direction: column;
+    margin-top: 32px;
+  }}
