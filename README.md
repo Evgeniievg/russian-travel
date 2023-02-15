@@ -12,3 +12,5 @@
 1. HTML
 2. CSS (Адаптивный дизайн)
 
+Ссылка на GitHub Pages: https://evgeniievg.github.io/russian-travel/
+

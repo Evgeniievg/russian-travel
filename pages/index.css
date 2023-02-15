@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Libre+Baskerville&family=Montserrat&family=Raleway:wght@300;400;500&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&display=swap');
 @import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/navbar/navbar.css);
 @import url(../blocks/navbar/__language/navbar__language.css);
