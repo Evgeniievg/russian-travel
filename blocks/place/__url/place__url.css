@@ -1,0 +1,37 @@
+.place__url{
+  margin: 0;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 40px;
+}
+
+@media screen and (min-width: 1440px) {
+  .place__url{
+    margin-left: 60px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+
+  .place__url{
+    margin-left: 32px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .place__url{
+    margin-left: 28px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+
+  .place__url{
+    align-self: flex-start;
+    margin: 32px 0 0 16px;
+    width: 90vw;
+  }
+}

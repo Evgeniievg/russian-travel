@@ -1,0 +1,9 @@
+.place__upper{
+  display: flex;
+}
+
+@media screen and (max-width: 425px) {
+  .place__upper{
+    flex-direction: column;
+  }
+}

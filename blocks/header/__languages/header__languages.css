@@ -1,0 +1,24 @@
+.header__languages{
+  display: flex;
+  list-style: none;
+  gap: 18px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  margin: 0;
+}
+
+
+@media screen and (min-width: 1440px) {
+  .header__languages{
+    font-size: 32px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+
+  .header__languages{
+    font-size: 18px;
+    line-height: 20px;
+}
+}
