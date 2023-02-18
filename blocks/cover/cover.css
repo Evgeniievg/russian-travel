@@ -3,7 +3,7 @@
   max-width: 92.5%;
   margin: auto;
   position: relative;
-  background-image: url(/images/trains.jpg);
+  background-image: url(../images/trains.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
