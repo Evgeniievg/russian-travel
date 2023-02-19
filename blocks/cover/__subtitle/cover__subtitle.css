@@ -10,11 +10,9 @@
   color: #fff;
 }
 
-@media screen and (min-width: 1440px) {
-
+@media screen and (min-width: 1280px) {
   .cover__subtitle{
-    font-size: 32px;
-    line-height: 2.5rem;
+    max-width: 360px;
   }
 }
 
@@ -43,7 +41,6 @@
 
   .cover__subtitle{
     max-width: 90vw;
-    font-weight: 400;
     font-size: 14px;
     line-height: 16px;
   }

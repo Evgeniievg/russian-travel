@@ -3,6 +3,12 @@
   margin-top: 48px;
 }
 
+@media screen and (max-width: 768px) {
+
+  .place__bottom{
+    margin-top: 44px;
+  }}
+
 @media screen and (max-width: 425px) {
 
   .place__bottom{

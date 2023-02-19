@@ -4,22 +4,24 @@
   font-size: 18px;
   line-height: 163%;
   margin-left: 40px;
-  margin-bottom: 26px;
   display: block;
-  max-width: 38vw;
+  width: 37.8vw;
 }
 
-@media screen and (min-width: 1440px) {
+.place__text:first-of-type{
+  margin-bottom: 25px;
+}
+
+@media screen and (min-width: 1280px) {
   .place__text{
-    font-size: 32px;
-    margin-left: 60px;
+    width: 484px;
   }
 }
 
 @media screen and (max-width: 1024px) {
 
   .place__text{
-    max-width: 44.7vw;
+    width: 44.53vw;
     margin-left: 32px;
   }
 }
@@ -28,25 +30,21 @@
 
   .place__text{
     font-size: 16px;
-    max-width: 45.8vw;
+    width: 45.8vw;
     margin-left: 28px;
   }
 }
 
 @media screen and (max-width: 589px) {
   .place__text{
-    max-width: 40vw;
+    width: 40vw;
   }
 }
 
 @media screen and (max-width: 425px) {
   .place__text{
     margin: 0 auto;
-    max-width: 90vw;
-  }
-
-  .place__text:first-of-type{
-    margin-bottom: 25px;
+    width: 90vw;
   }
 
 }

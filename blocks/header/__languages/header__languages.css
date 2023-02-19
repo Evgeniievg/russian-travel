@@ -8,13 +8,6 @@
   margin: 0;
 }
 
-
-@media screen and (min-width: 1440px) {
-  .header__languages{
-    font-size: 32px;
-  }
-}
-
 @media screen and (max-width: 425px) {
 
   .header__languages{
