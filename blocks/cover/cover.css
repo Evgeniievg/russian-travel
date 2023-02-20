@@ -6,7 +6,7 @@
   background-image: url(../../images/trains.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  margin-top: 92px
+  margin-top: 92px;
 }
 
 
@@ -54,6 +54,5 @@
 
   .cover{
     min-height: 200px;
-    margin-top: 97px;
   }
 }
