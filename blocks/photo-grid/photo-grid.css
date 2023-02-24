@@ -39,6 +39,6 @@
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(12, 1fr);
     gap: 12px;
-    padding-bottom: 33px;
+    padding-bottom: 64px;
   }
 }
