@@ -46,7 +46,7 @@
 
   .cover{
     min-height: 480px;
-    margin-top: 90px;
+    margin-top: 65px;
   }
 }
 
@@ -54,5 +54,6 @@
 
   .cover{
     min-height: 200px;
+    margin-top: 72px;
   }
 }
